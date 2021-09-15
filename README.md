@@ -1,1 +1,1 @@
-# MSDS458
+# MSDS458 Artificial Intelligence
